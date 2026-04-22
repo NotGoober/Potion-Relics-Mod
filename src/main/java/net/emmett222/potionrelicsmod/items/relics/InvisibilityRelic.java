@@ -21,7 +21,7 @@ public class InvisibilityRelic extends BaseRelic {
     public InvisibilityRelic(Properties pProperties) {
         super(pProperties,
                 MobEffects.INVISIBILITY,
-                280,
+                40,
                 "tooltip.potionrelicsmod.invisibilityrelic");
     }
 
